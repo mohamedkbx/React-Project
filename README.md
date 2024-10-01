@@ -1,4 +1,4 @@
-# Project React - Cosden Solutions
+# Project
 
 Learn React by building a real-world project.
 
